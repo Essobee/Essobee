@@ -8,10 +8,10 @@ from whatever course I "learned".
 Hopefully this will be an ever growing README, with tons of content showing my growth from knowing nothing, to being at least competent.  Cheers
 
 Courses I'm currently participating in 
-  Udemy:
-  Learn Python Programming Masterclass
-  100 Days of Code: Python
-   
+Udemy:
+Learn Python Programming Masterclass
+100 Days of Code: Python
+
 
 <!--
 **Essobee/Essobee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
