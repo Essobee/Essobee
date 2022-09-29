@@ -10,6 +10,7 @@ Hopefully this will be an ever growing README, with tons of content showing my g
 Courses I'm currently participating in:
 Learn Python Programming Masterclass;
 100 Days of Code: Python;
+Automate the Boring Stuff;
 CS50
 
 
